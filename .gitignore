@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Input photos (personal data)
+input/
+
+# Generated output
+output_stickers/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
